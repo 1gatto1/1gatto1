@@ -1,5 +1,5 @@
 # 💫 gatto__
-👨‍💻 Tech enthusiast<br>👆 I use arch btw<br>🍕 I like pizza<br><br>❤️ I love bibu000<br>
+👨‍💻 Tech enthusiast<br>👆 I use arch btw<br>🍕 I like pizza<br>
 
 <i>I don’t always test my code, but when I do, I do it in production.</i>
 
