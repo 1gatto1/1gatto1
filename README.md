@@ -1,7 +1,7 @@
 # 💫 gatto__
 👨‍💻 Tech enthusiast<br>👆 I use arch btw<br>🍕 I like pizza<br><br>❤️ I love bibu000<br>
 
-<i>"Programmers spend half their time fixing bugs, and the other half creating them."</i>
+<i>I don’t always test my code, but when I do, I do it in production.</i>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/802900466068619275) 
