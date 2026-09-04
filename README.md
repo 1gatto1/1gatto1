@@ -18,7 +18,3 @@
 
 ### 🔌 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=1gatto1&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=1gatto1&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=1gatto1&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
